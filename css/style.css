@@ -1,0 +1,72 @@
+table {
+    width: 900px;
+    height: 800px;
+}
+
+h1 {
+    color: white;
+    background-color: red
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.menu {
+    font-size: 20px;
+}
+
+.logo {
+    width: 100px;
+}
+
+.introduce {
+    background-color: brown;
+}
+
+.heading-introduce {
+    color: white;
+}
+
+.content-introduce {
+    font-size: 30px;
+    color: white;
+}
+
+i {
+    color: black;
+}
+
+.img-about {
+    width: 50%;
+}
+
+.development {
+    color: white;
+    background-color: brown;
+}
+
+ul {
+    font-size: 20px;
+}
+
+.content-news {
+    font-size: 20px;
+    width: 60%;
+    background-color: white;
+}
+
+.body-news {
+    background-color: grey
+}
+
+h1.heading-news {
+    color: brown;
+    background-color: white;
+    text-align: center;
+}
+
+.img-news {
+    width: 100%;
+}
